@@ -133,7 +133,7 @@ function drawmap() {
 
 
     // get map data
-    d3.json("/sports-analytics/data/mapdata.json", function(json) {
+    d3.json("/data/mapdata.json", function(json) {
         //Bind data and create one path per GeoJSON feature
         countriesGroup = svg.append("g").attr("id", "map");
         // add a background rectangle
