@@ -33,7 +33,12 @@ Furthermore, we computed the PCA of the 6 main attributes of each player, perfor
 The whole preprocessing is available at /py/preprocessing.py. 
 We used numpy and pandas in order to manage the datasets, along with sklearn decomposition with whitening to compute PCA.
 A summary image between original, normalized and whitened data is:
+
 ![img_whiten](https://raw.githubusercontent.com/giabb/sports-analytics/main/md_img/whiten.jpg)
+
+## To be fixed
+
+Back in 2020 the table containing player names,  hovering with the mouse, also prompted an image of the player. From 2021, SOFIFA changed the structure of the paths were the players' images are stored. The fix should be quick and simple, but since we discontinued the project, it is not our priority to fix it soon. We will definitely fix it in a future, but if anyone wants to do it, create a PR and we will be happy to cite everyone contributing the project.
 
 ## Authors
 
