@@ -4,6 +4,14 @@ This project was developed during the 2019 Visual Analytics Course held by [Prof
 
 The database used in this project is free and [available on Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset).
 
+## Summary
+
+  - [Getting Started](#getting-started)
+  - [To be fixed](#to-be-fixed)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+
 ## Getting Started
 
 It is possible to live play the web dashboard by [clicking here](https://giabb.github.io/sports-analytics/) .
