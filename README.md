@@ -2,7 +2,7 @@
 
 This project was developed during the 2019 Visual Analytics Course held by [Prof. Santucci](http://www.diag.uniroma1.it/users/giuseppe_santucci) at [Sapienza University of Rome](https://www.uniroma1.it/)
 
-The database used in this project is free and [available on Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset).
+The dataset used in this project is free and [available on Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset).
 
 ## Summary
 
